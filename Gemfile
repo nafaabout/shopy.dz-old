@@ -60,3 +60,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "sequel-rails", "~> 1.2"
+gem "shrine", "~> 3.5"
